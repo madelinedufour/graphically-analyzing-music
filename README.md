@@ -36,7 +36,6 @@ For this analysis, I chose to look at how valence, mode, and danceability vary b
 When looking at valence across genres, I found a few surprising things. Firstly, I would have thought that Blues would have mostly a negative valence (I think of it as sad music, so I expected minor keys) but interestingly it is mostly positive (meaning major keys). I was unsurprised to see that most of the Children's music and Reggae music has positive valence. I was surprised to see that both Stage & Screen and Classical music are mostly negative valence.
 ![Figure 1.1](pics/figure1.1.png)
 
-
 ### 2. Mode by genre
 When I looked at the proportion of major and minor keys across genres, the first thing I noticed is that there is a higher proportion of major keys overall. Other than the Unknown category, Country music and Children's music had the highest proportion of major modes to minor modes, which was not surprising to see. Even though Electronic is still mostly major, it had the highest proportion of minor-keyed music. Additionally, I think it would be interesting to test if mode and valence are correlated within the genres, because according to music theory, minor keys usually feel more sad or negative, whereas major keys often feel more happy or positive. 
 ![Figure 1.2](pics/figure1.2.png)
@@ -70,9 +69,3 @@ Interestingly, there is also a huge increase in explicitness over time. There ar
 ![Figure 2.7](pics/figure2.7.png)
 ![Figure 2.8](pics/figure2.8.png)
 ![Figure 2.9](pics/figure2.9.png)
-
-# Conclusion
-
-
-
-
